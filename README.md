@@ -2,44 +2,47 @@ What if everything is awesome?
 --
 https://twitter.com/codepo8
 
-addy osmani talk in web speed
-http://webpagetest.org
-Polyfill as a service
-Flexbox
-Webrtc for data not only media
-Offline
-Web components and shadow dom
-state in the componentised web
-Talk live! In javascript
+* addy osmani talk in web speed
+* http://webpagetest.org
+* Polyfill as a service
+* Flexbox
+* Webrtc for data not only media
+* Offline
+* Web components and shadow dom
+* state in the componentised web
+* Talk live! In javascript
 
 Lean NodeJs
 --
 https://twitter.com/borillo
 
 __Development:__
-Gulp
-browserync
-vb en karma
-Google Web starter kit
+* Gulp
+* browserync
+* vb en karma
+* Google Web starter kit
+
 __Test:__
-Protraktor
-ModernIE
+* Protraktor
+* ModernIE
+
 __Deploy:__
-Unix upstart
-Nodejitsu > forever (antiguo)
-Fusion passenge
-PM2 (moderno)
-(Cluster, no downtime, proxy)
+* Unix upstart
+* Nodejitsu > forever (antiguo)
+* Fusion passenge
+* PM2 (moderno)
+* (Cluster, no downtime, proxy)
 
 W3C perf
 --
 https://twitter.com/igrigorik
 http://bit.ly/1xHpjJY
 
-High performance networking in Google Chrome
-window.performance
-timing.js
-Introduction to __Resource Timing API__ (coming from users device feedback)
+High performance networking in Google Chrome (web)
+* window.performance
+* timing.js
+
+Introduction to __Resource Timing API__ (coming from users device feedback) (web)
 
 Perf best practices:
 * Perf regression tests (on every build)
@@ -132,7 +135,9 @@ Redis
 https://twitter.com/supercoco9
 
 speed, open source, makes you think (antes de guardar saber cómo lo voy a leer), atomicity (monothread), flexible data persistence, data distribution
+
 The redis manifesto: poem, against complexity, optimize for joy
+
 Fworks: Crashlytics
 
 SVG (Sara Soueidan)
